@@ -20,8 +20,8 @@ This project implements a Retrieval-Augmented Generation (RAG) system enhanced w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone [https://github.com/Nanibucky/Fusion_RAG.git]
+   cd Fusion_RAG
    ```
 
 2. Install dependencies:
